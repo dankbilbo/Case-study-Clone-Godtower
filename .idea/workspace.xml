@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb999365-287a-4765-be93-4f9474986e8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/2C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/2D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/2H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/2S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/3C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/3H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/3S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/General/icon_next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/General/icon_submit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/General/password_panel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/General/top_panel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level4-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level4-Bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Level5-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/MenuScene/godtower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/MenuScene/icon_continue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/MenuScene/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/icon_start.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Bài tập JS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc Hanh Nhung JS/NhungJS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc Hanh Nhung JS/ThucHanhNhung.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc Hanh khai bao va su dung bien/KhaiBaoBien3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc Hanh khai bao va su dung bien/KhaiBaoBienBai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc Hanh khai bao va su dung bien/KhaiBaoBienBai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/productsForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/productsForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Thực hành] Hiển thị đầu ra.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jSuSvIscI3b90967WJ1Eooms01" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Img/General" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Bài tập\case\Img\General" />
+      <recent name="C:\Users\admin\Desktop\Bài tập\case" />
+      <recent name="C:\Users\admin\Desktop\Bài tập\case\Img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb999365-287a-4765-be93-4f9474986e8f" name="Default Changelist" comment="" />
+      <created>1603809818961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603809818961</updated>
+      <workItem from="1603809821555" duration="1538000" />
+      <workItem from="1603878837534" duration="1086000" />
+      <workItem from="1603880026816" duration="17113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="169" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603903102448">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="169" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.0.1302.768@64.0.1302.768" timestamp="1603903102448" />
+    <state x="479" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603896630953">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="479" y="185" key="#com.intellij.fileTypes.FileTypeChooser/64.0.1302.768@64.0.1302.768" timestamp="1603896630953" />
+    <state x="445" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603902984786">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="445" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/64.0.1302.768@64.0.1302.768" timestamp="1603902984786" />
+    <state x="298" y="138" key="FileChooserDialogImpl" timestamp="1603879925098">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="298" y="138" key="FileChooserDialogImpl/64.0.1302.768@64.0.1302.768" timestamp="1603879925098" />
+    <state x="474" y="0" width="908" height="769" key="dock-window-1" timestamp="1603902155604">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="474" y="0" width="908" height="769" key="dock-window-1/64.0.1302.768@64.0.1302.768" timestamp="1603902155604" />
+    <state x="229" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603892485334">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="229" y="89" width="672" height="678" key="search.everywhere.popup/64.0.1302.768@64.0.1302.768" timestamp="1603892485334" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Levels.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
