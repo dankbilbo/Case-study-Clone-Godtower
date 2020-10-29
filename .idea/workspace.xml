@@ -28,35 +28,6 @@
       <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/3D.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/3H.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/3S.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/General/icon_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/General/icon_submit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/General/password_panel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/General/top_panel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level3-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level4-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level4-Bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/Level5-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/MenuScene/godtower.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/MenuScene/icon_continue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/MenuScene/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Img/icon_start.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Bài tập JS.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
@@ -72,6 +43,11 @@
       <change beforePath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Hiển thị đầu ra.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Levels.js" beforeDir="false" afterPath="$PROJECT_DIR$/Levels.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onclick.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +63,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jSuSvIscI3b90967WJ1Eooms01" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -100,6 +76,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Img/General" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -119,7 +97,9 @@
       <updated>1603809818961</updated>
       <workItem from="1603809821555" duration="1538000" />
       <workItem from="1603878837534" duration="1086000" />
-      <workItem from="1603880026816" duration="17113000" />
+      <workItem from="1603880026816" duration="21862000" />
+      <workItem from="1603945369424" duration="9000" />
+      <workItem from="1603950849501" duration="3048000" />
     </task>
     <servers />
   </component>
@@ -155,10 +135,14 @@
       <screen x="64" y="0" width="1302" height="768" />
     </state>
     <state x="298" y="138" key="FileChooserDialogImpl/64.0.1302.768@64.0.1302.768" timestamp="1603879925098" />
-    <state x="474" y="0" width="908" height="769" key="dock-window-1" timestamp="1603902155604">
+    <state x="216" y="28" key="SettingsEditor" timestamp="1603904198102">
       <screen x="64" y="0" width="1302" height="768" />
     </state>
-    <state x="474" y="0" width="908" height="769" key="dock-window-1/64.0.1302.768@64.0.1302.768" timestamp="1603902155604" />
+    <state x="216" y="28" key="SettingsEditor/64.0.1302.768@64.0.1302.768" timestamp="1603904198102" />
+    <state x="474" y="0" width="908" height="769" key="dock-window-1" timestamp="1603945377945">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="474" y="0" width="908" height="769" key="dock-window-1/64.0.1302.768@64.0.1302.768" timestamp="1603945377945" />
     <state x="229" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603892485334">
       <screen x="64" y="0" width="1302" height="768" />
     </state>
@@ -169,7 +153,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Levels.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
