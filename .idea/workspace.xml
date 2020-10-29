@@ -28,6 +28,7 @@
       <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/3D.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/3H.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Week 3-JS/Game Bài/img/3S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelsController.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Bài tập JS.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
@@ -43,11 +44,10 @@
       <change beforePath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Hiển thị đầu ra.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageObj.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Levels.js" beforeDir="false" afterPath="$PROJECT_DIR$/Levels.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onclick.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,7 @@
       <workItem from="1603878837534" duration="1086000" />
       <workItem from="1603880026816" duration="21862000" />
       <workItem from="1603945369424" duration="9000" />
-      <workItem from="1603950849501" duration="3048000" />
+      <workItem from="1603950849501" duration="5978000" />
     </task>
     <servers />
   </component>
@@ -127,10 +127,10 @@
       <screen x="64" y="0" width="1302" height="768" />
     </state>
     <state x="479" y="185" key="#com.intellij.fileTypes.FileTypeChooser/64.0.1302.768@64.0.1302.768" timestamp="1603896630953" />
-    <state x="445" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603902984786">
+    <state x="445" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603954446866">
       <screen x="64" y="0" width="1302" height="768" />
     </state>
-    <state x="445" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/64.0.1302.768@64.0.1302.768" timestamp="1603902984786" />
+    <state x="445" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/64.0.1302.768@64.0.1302.768" timestamp="1603954446866" />
     <state x="298" y="138" key="FileChooserDialogImpl" timestamp="1603879925098">
       <screen x="64" y="0" width="1302" height="768" />
     </state>
