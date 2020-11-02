@@ -11,7 +11,7 @@ function submit(id) {
     let level = document.getElementById(id);
     if (passwordEnter.value == levels[id].password) {
         level.style.visibility = "hidden";
-        console.log(levels[id + 1]);
+        localStorage.setItem("levels", JSON.stringify(levels[id + 1]));
         levels[id + 1].display();
         document.getElementById(id + 1).style.visibility = "visible";
 

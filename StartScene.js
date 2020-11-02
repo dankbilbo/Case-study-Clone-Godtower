@@ -5,3 +5,10 @@ function begin(){
     level1.display();
     document.getElementById(level1.id).style.visibility = "visible";
 }
+function continueLevel(){
+    document.getElementById("MenuScene").style.visibility = "hidden";
+    let currentLevel = JSON.parse(localStorage.getItem('levels'));
+    let current = new Levels(currentLevel.id, currentLevel.password);
+    current.display();
+    document.getElementById(current.id).style.visibility = "visible";
+}
