@@ -8,7 +8,7 @@ function begin(){
 function continueLevel(){
     document.getElementById("MenuScene").style.visibility = "hidden";
     let currentLevel = JSON.parse(localStorage.getItem('levels'));
-    let current = new Levels(currentLevel.id, currentLevel.password);
+    let current = new Levels(currentLevel.id);
     current.display();
     document.getElementById(current.id).style.visibility = "visible";
 }

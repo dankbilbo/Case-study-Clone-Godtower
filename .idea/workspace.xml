@@ -43,10 +43,7 @@
       <change beforePath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Hiển thị đầu ra.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelsController.js" beforeDir="false" afterPath="$PROJECT_DIR$/LevelsController.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StartScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/StartScene.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +98,7 @@
       <workItem from="1603950849501" duration="7478000" />
       <workItem from="1604026487857" duration="351000" />
       <workItem from="1604305111949" duration="19000" />
-      <workItem from="1604307014726" duration="5072000" />
+      <workItem from="1604307014726" duration="5386000" />
     </task>
     <servers />
   </component>
